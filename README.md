@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer focused on building impactful digital solutions. I enjoy working on modern web applications, mobile apps, healthcare systems, and technology-driven products that solve real-world problems.
+I'm a founder of Kobisoft Digitals - a tech startup - focused on building impactful digital solutions. I a passionate software developer that enjoys working on modern web applications, mobile apps, healthcare systems, and technology-driven products that solve real-world problems.
 
 * 🔭 Currently working on: EMR & wellness technology projects
 * 🌱 Learning: Cloud Infrastructure & System Design
